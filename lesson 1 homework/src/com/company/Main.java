@@ -10,6 +10,7 @@ public class Main {
         String word = " В групе 13";
         System.out.println(NUM + word);
         System.out.println("-----");
+        //fsdfs
 
 
         System.out.println("Задача 2");
